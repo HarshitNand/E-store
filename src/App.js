@@ -7,14 +7,14 @@ import Header from './component/header/index.jsx';
 
 import { CssBaseline } from '@mui/material';
 // import ProductList from './component/header/product/ProductList.jsx';
-import { products } from './DataProduct/productDb.js';
+// import { products } from './DataProduct/productDb.js';
 import HomeSidebar from './component/header/HomeSidebar.jsx'
 
 
 const App = () => {
 
   const [searchTerm, setSearchTerm] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState('');
+  // const [selectedCategory, setSelectedCategory] = useState('');
 
   // Extract unique categories from the product list
   // const categories = [...new Set(products.map(product => product.category))];

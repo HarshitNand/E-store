@@ -35,7 +35,7 @@ const App = () => {
     
     <Routes>
     
-    <Route path="/" element={ <HomeSidebar searchTerm={searchTerm} selectedCategory={selectedCategory}/>} />
+    <Route path="/" element={ <HomeSidebar searchTerm={searchTerm} />} />
     <Route path="/Login" element={ <Login />} />
     <Route path="/profile" element={ <Profiles/>} />
     

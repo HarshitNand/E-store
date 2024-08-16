@@ -17,7 +17,7 @@ const App = () => {
   const [selectedCategory, setSelectedCategory] = useState('');
 
   // Extract unique categories from the product list
-  const categories = [...new Set(products.map(product => product.category))];
+  // const categories = [...new Set(products.map(product => product.category))];
 
     const handleSearch = (term) => {
         setSearchTerm(term);

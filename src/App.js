@@ -6,7 +6,7 @@ import Profiles from './page/profile page/Profiles';
 import Header from './component/header/index.jsx';
 
 import { CssBaseline } from '@mui/material';
-import ProductList from './component/header/product/ProductList.jsx';
+// import ProductList from './component/header/product/ProductList.jsx';
 import { products } from './DataProduct/productDb.js';
 import HomeSidebar from './component/header/HomeSidebar.jsx'
 
@@ -23,9 +23,9 @@ const App = () => {
         setSearchTerm(term);
     };
 
-    const handleCategoryChange = (event) => {
-      setSelectedCategory(event.target.value);
-    };
+    // const handleCategoryChange = (event) => {
+    //   setSelectedCategory(event.target.value);
+    // };
 
   return (
     < BrowserRouter>

@@ -1,3 +1,29 @@
+
+
+Project Setup:
+Clone the repository: git clone <repository-url>
+Install dependencies:
+For backend: cd backend && npm install
+For frontend: cd frontend && npm install
+Set up the database (if applicable):
+Instructions for database setup.
+Run the application:
+For backend: npm start
+For frontend: npm start
+Access the application at http://localhost:3000 (or the respective port).
+Authentication Details:
+Provide sample business user credentials for testing (e.g., username: xxxxx, password: xxxx).
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -9,7 +9,7 @@ import logo7 from "../assetImage/vegitable.jpg"
 export const products = [
    {
        id: 1,
-       name: "iphone",
+       name: "Iphone",
        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
        price: "$29.99",
        image: logo,
@@ -17,7 +17,7 @@ export const products = [
    },
    {
        id: 2,
-       name: "hp",
+       name: "Hp",
        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
        price: "$39.99",
        image: logo4,
@@ -25,14 +25,14 @@ export const products = [
    },
    {
       id: 3,
-      name: "Vegitable",
+      name: "Vegetable",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       price: "$49.99",
       image:logo7,
       category:"Grocery",
   }, {
    id: 4,
-   name: "iqoo ",
+   name: "iQoo ",
    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
    price: "$59.99",
    image: logo1,
@@ -40,7 +40,7 @@ export const products = [
 },
 {
    id: 5,
-   name: "motorola",
+   name: "Motorola",
    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
    price: "$59.99",
    image: logo2,
@@ -48,7 +48,7 @@ export const products = [
 },
 {
    id: 6,
-   name: "lenovo",
+   name: "Lenovo",
    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
    price: "$59.99",
    image: logo6,
@@ -56,7 +56,7 @@ export const products = [
 },
 {
    id: 7,
-   name: "del",
+   name: "Del",
    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
    price: "$59.99",
    image: logo5,
@@ -64,7 +64,7 @@ export const products = [
 },
 {
    id: 8,
-   name: "realme",
+   name: "Realme",
    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
    price: "$59.99",
    image: logo3,
